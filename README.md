@@ -1,4 +1,4 @@
-![](./img/linkedin_cvp_new.png)
+![](./linkedin_cvp_new.png)
 
 ## Bienvenido al GitHub de Carlos Villarreal:
 
