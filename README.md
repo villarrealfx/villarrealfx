@@ -62,7 +62,8 @@ Me encanta hacer cosas útiles con la programación, pero cuando no estoy frente
 ### Aprendizaje continuo
 Siempre estoy en un constante aprendizaje, creo que la mejor manera de aportar soluciones oportunas es estar actualizado por ello actualmente estoy aprendiendo:
 * Tensorflow
-* Deep Data
+* Deep Learning
+* Big Data
 * Power BI 
 * Dash-plottly 
 * IoT (Internet de las cosas)
